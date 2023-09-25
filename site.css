@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    color: #333d47;
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
+
+.menu {
+    text-align:center;
+    font-size: 18px;
+}
+
+.year {
+    font-size: 16px;
+}
+
+#divider {
+        border: 5px solid #ff8300;
+}
+
+#title {
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+}
+
+#author {
+    font-size: 16px;
+    color: #333d47;
+}
