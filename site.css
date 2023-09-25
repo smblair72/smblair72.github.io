@@ -40,3 +40,8 @@ img {
     font-size: 16px;
     color: #333d47;
 }
+
+#body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
