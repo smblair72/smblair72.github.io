@@ -1,3 +1,3 @@
 # smblair72.github.io
 
-Testing....testing....testing
+This is the README for Assignment 2 for CSCI4018 at APSU.
